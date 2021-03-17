@@ -1,0 +1,16 @@
+{
+  "displayName": "OneOf",
+  "name": "oneof",
+  "version": "3.0.178",
+  "description": "F# style discriminated unions or C#, using a custom type OneOf<T0, ... Tn> which holds a single value and has a .Match(...) method on it for exhaustive matching. Simple but powerful.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crowdoka/OneOf.git"
+  },
+  "author": "mcintyre321",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/crowdoka/OneOf/issues"
+  },
+  "homepage": "https://github.com/crowdoka/OneOf"
+}
